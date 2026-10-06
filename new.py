@@ -38,3 +38,6 @@ print(abc[0:4])
 print(abc[0:4:2])
 
 introduce()
+
+
+print("Hello world")
